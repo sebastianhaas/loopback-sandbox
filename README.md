@@ -19,7 +19,7 @@ Posted newspaper. { name: 'New York Times',
 Server reported successul post. { name: 'Article Three', id: 'e7524b7e3a99aaa6c66a3b8c' }
 Server reported successul post. { name: 'Article Two', id: 'cc46abad8a0b738a0296321d' }
 Server reported successul post. { name: 'Article One', id: '93894b86488da806304bd82b' }
-{"name":"New York Times","id":"583cb5b353066d3132bb85e3","_articles":[{"name":"Article Three","id":"e7524b7e3a99aaa6c66a3b8c"}]}
+Retrieved newspaper: {"name":"New York Times","id":"583cb5b353066d3132bb85e3","_articles":[{"name":"Article Three","id":"e7524b7e3a99aaa6c66a3b8c"}]}
 ```
 or even
 ```
