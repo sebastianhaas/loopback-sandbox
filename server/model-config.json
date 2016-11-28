@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Newspaper": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Article": {
+    "dataSource": "transient",
+    "public": false
   }
 }

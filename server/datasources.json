@@ -2,5 +2,25 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "embedsManySandbox",
+    "name": "mongodb",
+    "connector": "mongodb"
+  },
+  "transient": {
+    "name": "transient",
+    "connector": "transient"
+  },
+  "postgres": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "embedsMany",
+    "password": "loopback",
+    "name": "postgres",
+    "user": "loopback",
+    "connector": "postgresql"
   }
 }
